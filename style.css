@@ -1,0 +1,17 @@
+body {
+  background-color: white;
+}
+h1,
+h2,
+a {
+  color: black;
+}
+p {
+  color: gray;
+  max-width: 65ch;
+}
+
+header,
+section {
+  padding: 10px;
+}
